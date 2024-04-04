@@ -1,2 +1,3 @@
 # Bow and Arrow
-This is a quote
+
+This repo is a pilot project
